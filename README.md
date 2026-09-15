@@ -6,13 +6,3 @@
 
 ## Goal
 Build a machine-learning-based receiver scheduler that predicts which frequency band should be scanned next.
-
-## Progress
-- [x] Repository Setup
-- [ ] Research
-- [ ] Simulator
-- [ ] Dataset
-- [ ] ML Model
-- [ ] Scheduler
-- [ ] Dashboard
-- [ ] PPT
